@@ -1,0 +1,15 @@
+      Program_task1 
+int i =0
+nbr_voyl=0
+nbr_wrd=1
+
+begin
+
+for(From 0 To str.lenght Do
+if str[i]==27 then 
+nbr_wrd=nbr_wrd+1
+elseif str[i] IN [codeasciivoyl] then
+nbr_voyl=nbr_voyl+1
+end if)
+end for
+end

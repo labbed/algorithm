@@ -1,0 +1,14 @@
+program Task2
+int i =0
+int j =0
+int sum= 0
+Set1=[3,7,1,9]
+Set2=[2,4,1,9,3]
+ begin
+for((From 0 To Set1[i].lenght AND From 0 To Set2[J]) Do
+ if Set1[i]<> Set[j]
+then sum = sum +1
+
+end if 
+ end for 
+end      
